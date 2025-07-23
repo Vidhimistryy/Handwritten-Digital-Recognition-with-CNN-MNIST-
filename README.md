@@ -6,7 +6,7 @@ A beginner-friendly deep learning repository that walks you through training and
 - Trains a CNN on the MNIST dataset (60,000 training & 10,000 test samples)
 - Achieves ~99% training accuracy and ~98.7% test accuracy
 - Saves the model as `mnist_cnn_model.h5`
-- 
+  
 # Model Summary
 
 - Conv2D (32 filters, 3x3) + ReLU
@@ -21,7 +21,7 @@ A beginner-friendly deep learning repository that walks you through training and
 
 # Clone the Repository
 ```bash
-git clone https://github.com/your-username/mnist-cnn-digit-recognition.git
+git clone https://github.com/vidhimistryy/mnist-cnn-digit-recognition.git
 cd mnist-cnn-digit-recognition
 ```
 
